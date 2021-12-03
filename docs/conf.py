@@ -242,7 +242,7 @@ texinfo_documents = [
         u"Operate First Data Science Repo-to-JH-Image Documentation",
         u"chauhankaranraj",
         "Operate First Data Science Repo-to-JH-Image",
-        "Demo project to show how to easily and automatically containerize a GitHub repo and share it on JupyterHub using Thoth tools",
+        "OPF Data Science Tools Demo Project",
         "Miscellaneous",
     ),
 ]

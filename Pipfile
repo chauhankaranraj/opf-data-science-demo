@@ -9,10 +9,11 @@ coverage = "*"
 Sphinx = "*"
 
 [packages]
-src = {editable = true, path = "./"}
-click = "*"
-awscli = "*"
+ipykernel = "*"
+river = "*"
 python-dotenv = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.8"

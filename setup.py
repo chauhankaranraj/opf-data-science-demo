@@ -8,7 +8,7 @@ setup(
     name="src",
     packages=find_packages(),
     version=__version__,
-    description="Demo project to show how to easily and automatically containerize a GitHub repo and share it on JupyterHub using Thoth tools",
+    description="OPF Data Science Tools Demo Projects",
     author="chauhankaranraj",
     license="MIT",
 )
